@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adam O'Mahony</h1>
-<h3 align="center">A Student Software Engineer</h3>
+<h3 align="center">A Student Software Engineer @Univeristy of East Anglia</h3>
 
-- 🔭 I’m currently working on **A Raspberry Pi Crypto Project**
+- 🔭 I’m currently working on **Univeristy Projects**
 
-- 🌱 I’m currently learning **GO,Java,C#**
+- 🌱 I’m currently learning **JavaScript and Java**
 
 - 📫 How to reach me **adam.omahony@icloud.com**
 
